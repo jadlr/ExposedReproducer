@@ -18,3 +18,9 @@ Postgres / HikariCP
 
 
 I'm not sure why it's only repeated twice here. In my production code it's repeated a lot more often.
+
+# Fix: 
+
+see: https://youtrack.jetbrains.com/issue/EXPOSED-950/Order-by-clause-is-repeated-hundredfold
+
+pr: https://github.com/JetBrains/Exposed/pull/2682
